@@ -3,7 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh788&label=Profile%20views&color=0e75b6&style=flat" alt="harsh788" /> </p> -->
 
-- 📫 How to reach me **Gururaj.Otageri@iiitb.ac.in**
+- 📫 How to reach me </br>
+**Gururaj.Otageri@iiitb.ac.in**
+**gururajotagerimail2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
