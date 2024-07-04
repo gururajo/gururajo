@@ -19,3 +19,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh788&show_icons=true&locale=en" alt="harsh788" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh788&" alt="harsh788" /></p>  -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=gururajo&label=Profile%20Views&pretty=false" />
+</a>
